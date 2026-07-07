@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageLoaderAssignment</string>
+    <string name="btn_invalidate_cache">Invalidate Cache</string>
+    <string name="toast_cache_invalidated">Cache Invalidated</string>
+    <string name="error_message">Error: %1$s</string>
+    <string name="image_id_label">ID: %1$d</string>
+    <string name="image_description">Plain image</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ImageLoaderAssignment" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/mint_green</item>
+    </style>
+
+    <style name="Theme.ImageLoaderAssignment" parent="Base.Theme.ImageLoaderAssignment" />
+</resources>
